@@ -1,4 +1,4 @@
-# ASSIGNMENT 1
+# ASSIGNMENT 1 [DONE]
 
 ## UDEMY REACT JS
 
@@ -7,7 +7,7 @@ Todo:
 
   ✔ UserInput @done(19-08-09 22:08)
   
-  ✔ UserOutput @done(19-08-09 22:08)Create
+  ✔ UserOutput @done(19-08-09 22:08)
   
 ✔ UserInput should hold an input element, UserOutput two paragraphs @done(19-08-09 22:08)
 
