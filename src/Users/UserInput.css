@@ -1,0 +1,20 @@
+.UserInput {
+	display: flex;
+	justify-content: center;
+}
+.UserInput::before {
+	content: 'Username: ';
+	margin-top: 10px;
+	margin-right: 12px;
+	text-transform: uppercase;
+}
+.UserInput input {
+	border: 2px solid rgba(0, 0, 0, 0.123);
+	text-transform: lowercase;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+.UserInput:hover input:hover {
+	border: 2px solid rgba(0, 0, 0, 0.637);
+}
