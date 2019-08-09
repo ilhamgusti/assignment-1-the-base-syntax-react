@@ -4,8 +4,8 @@
 
 Todo:
 ✔ Create TWO new components: UserInput and UserOutput @done(19-08-09 22:08)
-✔ UserInput @done(19-08-09 22:08)
-✔ UserOutput @done(19-08-09 22:08)
+  ✔ UserInput @done(19-08-09 22:08)
+  ✔ UserOutput @done(19-08-09 22:08)
 ✔ UserInput should hold an input element, UserOutput two paragraphs @done(19-08-09 22:08)
 ✔ Output multiple UserOutput components in the App component (any paragraph texts of your choice) @done(19-08-09 22:08)
 ✔ Pass a username (of your choice) to UserOutput via props and display it there @done(19-08-09 22:08)
